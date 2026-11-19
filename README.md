@@ -53,7 +53,7 @@ npx serve out
 
 ## Demo en vivo
 
-_Pendiente de publicar en Firebase Hosting — el enlace se agregará aquí._
+https://farmacia-eusebio.web.app
 
 ## Licencia
 
